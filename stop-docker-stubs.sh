@@ -1,0 +1,1 @@
+docker-compose -f stubs/docker-compose.yml down
